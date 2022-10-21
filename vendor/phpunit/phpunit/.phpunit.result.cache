@@ -1,0 +1,1 @@
+{"version":1,"defects":{"RecordTest::testCanBeCreatedFromValidEmailAddress":3,"ValidationTest::testValidationEmail":3,"RecordTest::testFindAll":4},"times":{"RecordTest::testCanBeCreatedFromValidEmailAddress":0.007,"ValidationTest::testValidationEmail":0.004,"RecordTest::testFindAll":0.019}}
